@@ -1,6 +1,7 @@
 +++
 title = 'Imaginarium: A LibrAria Anniversary Exhibit'
 date = 2023-12-01T18:00:00+08:00
+categories = ['culture']
 tags = ['culture', '4-points', 'commissioned-photographer']
 +++
 

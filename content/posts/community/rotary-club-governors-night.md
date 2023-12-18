@@ -1,6 +1,7 @@
 +++
-title = 'Rotary Club Governors Night'
-date = 2023-12-17T22:33:16+08:00
+title = 'ROTARY Club Governors Night'
+date = 2023-09-22T18:00:00+08:00
+categories = ['community']
 tags = ['community', '4-points', 'commissioned-photographer']
 +++
 

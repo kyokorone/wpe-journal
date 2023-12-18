@@ -1,6 +1,7 @@
 +++
 title = 'SUMC Palaro Volleyball'
 date = 2023-08-01T17:00:00+08:00
+categories = ['court']
 tags = ['court', '4-points', 'commissioned-photographer']
 +++
 

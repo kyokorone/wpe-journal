@@ -1,6 +1,7 @@
 +++
-title = 'Arts and Design Presents Auld Lang Syne'
-date = 2023-12-17T22:50:00+08:00
+title = 'Arts and Design Presents: Auld Lang Syne'
+date = 2023-12-17T18:00:00+08:00
+categories = ['community']
 tags = ['community', '4-points', 'commissioned-photographer']
 +++
 

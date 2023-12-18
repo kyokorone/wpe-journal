@@ -1,6 +1,7 @@
 +++
 title = 'UCLEM Banner Making'
 date = 2023-11-17T07:00:00+08:00
+categories = ['church']
 tags = ['church', '2-points', 'working-committee']
 +++
 

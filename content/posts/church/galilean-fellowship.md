@@ -1,6 +1,7 @@
 +++
 title = 'Galilean Fellowship'
 date = 2023-11-21T17:00:00+08:00
+categories = ['church']
 tags = ['church', '1-point', 'participant']
 +++
 

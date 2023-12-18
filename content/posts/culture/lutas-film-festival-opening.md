@@ -1,6 +1,7 @@
 +++
 title = 'Lutas Film Festival Opening'
 date = 2023-10-05T18:00:00+08:00
+categories = ['culture']
 tags = ['culture', '1-point', 'succ-representative']
 +++
 

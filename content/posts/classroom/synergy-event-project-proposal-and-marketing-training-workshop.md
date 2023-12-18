@@ -1,6 +1,7 @@
 +++
 title = 'Synergy Event Project Proposal and Marketing Training Workshop'
 date = 2023-10-14T15:00:00+08:00
+categories = ['classroom']
 tags = ['classroom', '3-points', 'rotc-photog']
 +++
 

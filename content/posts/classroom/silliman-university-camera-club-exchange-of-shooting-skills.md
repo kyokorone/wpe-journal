@@ -1,6 +1,7 @@
 +++
 title = 'Silliman University Camera Club Exchange of Shooting Skills'
-date = 2023-12-06T08:00:00+08:00
+date = 2023-08-27T13:00:00+08:00
+categories = ['classroom']
 tags = ['classroom', '3-points', 'succ-secretary']
 +++
 

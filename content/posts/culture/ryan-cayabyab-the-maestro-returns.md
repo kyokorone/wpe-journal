@@ -1,6 +1,7 @@
 +++
 title = 'Ryan Cayabyab: the Maestro Returns!'
 date = 2023-11-25T15:00:00+08:00
+categories = ['culture']
 tags = ['culture', '3-points', 'senior-photographer']
 +++
 

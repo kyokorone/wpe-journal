@@ -1,5 +1,7 @@
 +++
 title = 'Christmas Outreach/Sunrise Service/PEP Culmination'
+date = 2023-12-06T17:30:00+08:00
+categories = ['church']
 tags = ['church', '2-points', 'working-committee']
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = 'Project Exodus'
 date = 2023-12-10T12:00:00+08:00
+categories = ['church']
 tags = ['church', '4-points', 'lead-organizer']
 +++
 

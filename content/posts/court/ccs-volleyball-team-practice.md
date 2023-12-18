@@ -1,6 +1,7 @@
 +++
 title = 'CCS Volleyball Team Practice'
 date = 2023-11-28T15:30:00+08:00
+categories = ['court']
 tags = ['court', '4-points', 'intramurals-team-member']
 +++
 
