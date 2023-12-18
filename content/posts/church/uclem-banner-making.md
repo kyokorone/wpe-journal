@@ -4,6 +4,8 @@ date = 2023-12-17T23:20:13+08:00
 tags = ['church', '2-points', 'working-committee']
 +++
 
+{{< figure src="test.webp" >}}
+
 One of the most memorable activities that I participated in this semester was the UCLEM Banner Making that we started making on November 17th, then finished together on November 21st. The theme was about God’s Incredible Gift for us Today, centered on John 3:16. For my group, I bought the supplies needed, and I also bought the fabric needed for our group and our partnered group.
 
 During the activity, I learned much about what goes into making Christmas decorations and banner making. It also made me reflect on the meaning of Christmas and the Christmas spirit. One of my favorite parts of making the UCLEM Banner was my group finishing ours, and I ended up helping out my friend’s group’s banner actually. I loved helping them out. 
