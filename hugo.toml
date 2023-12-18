@@ -10,8 +10,8 @@ theme = "tailwind"
 # dir name of your blog content (default is `content/posts`).
 # the list of set content will show up on your index page (baseurl).
 contentTypeName = "posts"
-
 toc = false
+DateFormatList = "January 2, 2006 03:04PM"
 
 [params.header]
 logo = "logo.webp"
@@ -24,18 +24,10 @@ poweredby = true
 
 [[menu.main]]
 identifier = "post"
-name = "Post"
+name = "Posts"
 pageRef = "/posts"
 weight = 0
-
-[[menu.main]]
-identifier = "about"
-name = "About"
-pageRef = "/about"
-weight = 10
 
 [taxonomies]
 category = "categories"
 tag = "tags"
-series = "series"
-theme = 'tailwind'
