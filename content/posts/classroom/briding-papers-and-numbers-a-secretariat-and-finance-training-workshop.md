@@ -1,5 +1,5 @@
 +++
-title = 'Briding Papers and Numbers: A Secretariat and Finance Training Workshop'
+title = 'Bridging Papers and Numbers: A Secretariat and Finance Training Workshop'
 date = 2023-11-15T18:00:00+08:00
 tags = ['classroom', '3-points', 'rotc-photog']
 +++
