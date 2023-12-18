@@ -5,7 +5,6 @@ author = "Angela Sol Henson"
 copyright = "Angela Sol Henson"
 paginate = 10
 theme = "tailwind"
-table_of_contents = ""
 
 [params]
 # dir name of your blog content (default is `content/posts`).
