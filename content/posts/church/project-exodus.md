@@ -1,8 +1,7 @@
 +++
 title = 'Project Exodus'
-date = 2023-12-17T23:24:37+08:00
+date = 2023-12-10T12:00:00+08:00
 tags = ['church', '4-points', 'lead-organizer']
-include_toc = false
 +++
 
 {{< figure src="ch-ex.webp" >}}

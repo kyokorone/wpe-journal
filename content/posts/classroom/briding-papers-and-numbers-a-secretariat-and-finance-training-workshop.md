@@ -1,8 +1,10 @@
 +++
 title = 'Briding Papers and Numbers: A Secretariat and Finance Training Workshop'
-date = 2023-12-17T23:15:54+08:00
+date = 2023-11-15T18:00:00+08:00
 tags = ['classroom', '3-points', 'rotc-photog']
 +++
+
+{{< figure src="cl-rotc.webp" >}}
 
 As an ROTC HQ Photo G cadet, I was given the opportunity to be the main photographer for the Bridging Papers and Numbers seminar hosted by the Redshield Fraternity on November 15th, 6:00pm at the RTY Building Valor Room. This seminar was focused on the Redshield Fraternity’s secretariat and finance committee’s duties.
 
