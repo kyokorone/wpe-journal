@@ -1,6 +1,7 @@
 +++
 title = 'Sto Nino Orphanage White Gift'
 date = 2023-12-06T11:30:00+08:00
+categories = ['community']
 tags = ['community', '2-points', 'committee-member']
 +++
 
