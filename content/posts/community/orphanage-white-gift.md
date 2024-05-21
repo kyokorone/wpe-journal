@@ -18,4 +18,4 @@ In the end, it was an overall satisfying experience. We got to give to those les
 
 Because of this acitivity, I was able to spread hope to others, and I am truly grateful for the life I have.
 
-{{< figure src="com-whitew.webp" >}}
+{{< figure src="com-white2.webp" >}}
