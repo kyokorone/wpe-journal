@@ -1,6 +1,6 @@
 +++
 title = '2nd Breast Cancer Awareness Fun Run for a Cause'
-date = 2023-10-08T5:00:00+08:00
+date = 2023-10-08T05:00:00+08:00
 categories = ['community']
 tags = ['community', '3-points', 'lead-photographer']
 +++
